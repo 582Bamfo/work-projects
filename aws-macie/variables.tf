@@ -1,3 +1,4 @@
+ 
 variable "job_type" {
   default = "SCHEDULED"
 }
